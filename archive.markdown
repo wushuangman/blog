@@ -13,7 +13,7 @@ layout: page
   {% endif %}
   <li class="listing-item">
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    <a href="/blog/{{ post.url }}" title="{{ post.title }}">{{ post.title }}{{ post.url }}</a>
+    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}{{ post.url }}</a>
   </li>
 {% endfor %}
 </ul>
