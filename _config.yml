@@ -5,7 +5,7 @@ name: "Shuangman Wu"
 markdown: rdiscount
 
 author: "wsm"
-baseurl: /blog/
+baseurl: /blog
 disqus: "gopherwood"
 
 navigations:
