@@ -1,6 +1,6 @@
 markdown: rdiscount
 highlighter: pygments
-permalink: /blog/:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title.html
 name: "Shuangman Wu"
 markdown: rdiscount
 
@@ -23,11 +23,11 @@ navigations:
     href: /categories.html
   - title: About
     class: fa fa-user
-    href: /blog/about.html
+    href: /about.html
   - title: Gallery
     class: fa fa-film
     href: http://www.baidu.com
   - title: Subscribe
     class: fa fa-rss
-    href: /blog/atom.xml
+    href: /atom.xml
 
