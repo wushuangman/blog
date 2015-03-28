@@ -1,6 +1,6 @@
 markdown: rdiscount
 highlighter: pygments
-permalink: /:year/:month/:day/:title.html
+permalink: /blog/:year/:month/:day/:title.html
 name: "Shuangman Wu"
 markdown: rdiscount
 
@@ -9,6 +9,9 @@ baseurl: /blog/
 disqus: "gopherwood"
 
 navigations:
+  - title: Home
+    class: fa fa-home
+    href: /blog/index.html
   - title: Archive
     class: fa fa-list-ul
     href: /blog/archive.html
