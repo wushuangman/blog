@@ -3,7 +3,6 @@ layout: default
 ---
 
 <embed src="http://music.163.com/style/swf/widget.swf?sid=169628&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"/>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=169628&auto=1&height=66"></iframe>
 
 <div>
 <img src="media/me.jpg" width="150" height="200" align="right" />
