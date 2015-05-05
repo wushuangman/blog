@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+%通过网易云音乐生成外链播放器
 <embed src="http://music.163.com/style/swf/widget.swf?sid=169628&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"/>
 
 <div>
