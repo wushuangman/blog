@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <embed src="http://music.163.com/style/swf/widget.swf?sid=71131856&type=0&auto=1&width=310&height=90" width="330" height="110"  allowNetworking="all"/>
 
 <div>
